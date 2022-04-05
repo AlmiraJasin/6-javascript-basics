@@ -1,10 +1,10 @@
 {
-  "name": "6-prjektas",
+  "name": "6-javascript-basics",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./js/08-arrow-funcion.js",
+    "dev": "nodemon ./js/15-letters.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
